@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+spacy
+joblib
+numpy
+matplotlib
+# Run: python -m spacy download en_core_web_sm
